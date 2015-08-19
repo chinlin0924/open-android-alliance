@@ -1,0 +1,5 @@
+We aim to replace all closed source, proprietary applications in the base Android install with open source applications that can be freely distributed. We don't have anything against the existing closed applications, however, we believe in open platforms and want all users to be able to modify their systems as they see fit.
+
+Above all, remember, we are NOT "Anti-Google". We are "Pro-Android". Please act accordingly when posting on this project.
+
+I've set the code license as GPL3. This is mostly because I'm very familiar with it. If developers would like a different license, I'm open to suggestions. The only thing GPL does that the others don't is requires that all code based on this project remain open forever. BSD, Apache, Mozilla and others allow closed versions to be made. If the majority of developers joining the project wish to allow that, I will change it.
